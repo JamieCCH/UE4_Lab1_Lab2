@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{99EEFDFE-D242-52DD-BFAC-08BB70939B25}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Lab1_Huang_JamieCC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
